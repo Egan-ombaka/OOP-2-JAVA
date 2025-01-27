@@ -1,7 +1,7 @@
 package cylindervolume;
 /*
  * A Java programm that calculates the volume of cylinder with user provided data.
- * @AUTHOR - Eganh Ombaka
+ * @AUTHOR - Egan Ombaka
  */
 import java.util.Scanner;
 
