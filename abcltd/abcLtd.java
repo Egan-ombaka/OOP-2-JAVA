@@ -16,11 +16,13 @@ public class abcLtd {
         this.hours = hours;
     }
 
+    //calculating the basic salary
     public double basicSalary1() {
         double basicSalary = hours * RATE;
         return basicSalary;
     }
 
+    //calculating the gross salary
     public double grossSalary1(){
         double grossSalary = basicSalary1() * LUNCH;
         return grossSalary;
