@@ -2,7 +2,6 @@ package fruits;
 /*
  * @Author Eganh Ombaka
  */
-
 import java.util.Scanner;
 
 public class fruitsChoice {
