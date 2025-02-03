@@ -1,6 +1,7 @@
 package fruits;
 /*
  * @Author Eganh Ombaka
+ * a java programm using conditional statements if ... else to
  */
 import java.util.Scanner;
 
