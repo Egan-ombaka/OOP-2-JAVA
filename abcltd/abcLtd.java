@@ -22,7 +22,6 @@ public class abcLtd {
         double basicSalary = hours * RATE;
         return basicSalary;
     }
-
     //calculating the gross salary
     public double grossSalary1(){
         double grossSalary = basicSalary1() * LUNCH;
