@@ -17,7 +17,6 @@ public class abcLtd {
     public abcLtd(double hours) {
         this.hours = hours;
     }
-
     //calculating the basic salary
     public double basicSalary1() {
         double basicSalary = hours * RATE;
@@ -55,6 +54,6 @@ public class abcLtd {
         payment.displayOutput();
 
         scanner.close();
-        
+
     }
 }
