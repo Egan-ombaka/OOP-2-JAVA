@@ -1,8 +1,10 @@
 package abcltd;
 /*
  * @AUTHOR Egan Ombaka
+ * 
  * A java program that calculates the salary of an employee ...
  * Quiz 4 in quizes folder.
+ * 
  */
 
 import java.util.Scanner;
