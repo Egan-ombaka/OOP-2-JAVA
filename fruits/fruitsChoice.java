@@ -1,12 +1,12 @@
 package fruits;
 /*
  * @Author Eganh Ombaka
+ * a java programm using conditional statements if ... else to
  */
 import java.util.Scanner;
 
 public class fruitsChoice {
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the fruit of your choice : ");
 

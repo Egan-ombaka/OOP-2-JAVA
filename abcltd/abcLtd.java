@@ -1,8 +1,10 @@
 package abcltd;
 /*
  * @AUTHOR Egan Ombaka
+ * 
  * A java program that calculates the salary of an employee ...
  * Quiz 4 in quizes folder.
+ * 
  */
 
 import java.util.Scanner;
@@ -15,13 +17,11 @@ public class abcLtd {
     public abcLtd(double hours) {
         this.hours = hours;
     }
-
     //calculating the basic salary
     public double basicSalary1() {
         double basicSalary = hours * RATE;
         return basicSalary;
     }
-
     //calculating the gross salary
     public double grossSalary1(){
         double grossSalary = basicSalary1() * LUNCH;
@@ -53,5 +53,6 @@ public class abcLtd {
         payment.displayOutput();
 
         scanner.close();
+
     }
 }
