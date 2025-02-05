@@ -1,4 +1,4 @@
-package Quizes.gradingsystem;
+package gradingsystem;
 /*
  * @AUTHOR Egan Ombaka
  * A student Grading programm using JAVA...
