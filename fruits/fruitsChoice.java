@@ -10,7 +10,7 @@ public class fruitsChoice {
 
         //user input
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter (O, A or B ) according to your fruit choice : ");
+        System.out.println("Enter (O, A or B or any other) according to your fruit choice : ");
         char fruitsChoice = scanner.next().charAt(0);
 
         scanner.close();
