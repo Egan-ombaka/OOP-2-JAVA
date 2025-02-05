@@ -2,6 +2,7 @@ package gradingsystem;
 /*
  * @AUTHOR Egan Ombaka
  * A student Grading programm using JAVA...
+ * 
  */
 import java.util.Scanner;
 
