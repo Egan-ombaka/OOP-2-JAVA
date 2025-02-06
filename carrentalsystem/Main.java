@@ -12,7 +12,7 @@ public class Main {
         Customer customer1 = new Customer("C001", "John Doe", "john@example.com");
         agency.addCustomer(customer1);
 
-        agency.rentCar("Toyota", "Corolla", customer1);
+        agency.rentCar("Corolla", "Toyota", customer1);
         agency.returnCar(car1);
     }
 }
